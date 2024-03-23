@@ -1,1 +1,1 @@
-# semsimula
+# Semantic Simulation example code
