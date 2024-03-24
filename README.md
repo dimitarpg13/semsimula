@@ -4,7 +4,7 @@
 
 ### Modeling dynamic semantic distance via the evolution and aggergation of Semantic Structures 
 
-The mutual positions of structures in semantic space are goverened by the equations of evolution. 
+The motion and the mutual positions of structures in semantic space are determined by the equations of evolution. Because the semantic structures are always in motion the distance between any two structures depends on the evolution of their positions in semantic space. Thus the semantic distance between any two structures $S_1$ and $S_2$, denoted with $sdist\left(S_1,S_2\right)$, is a dynamic quantity.
 
 There are two mechanisms which will influence the aggregation / dispersal of Semantic Structures :
 
