@@ -4,6 +4,8 @@
 
 ### Modeling dynamic semantic distance via the evolution and aggergation of Semantic Structures 
 
+The mutual positions of structures in semantic space are goverened by the equations of evolution. 
+
 There are two mechanisms which will influence the aggregation / dispersal of Semantic Structures :
 
  * association / disassociation links which exert forces on small scales and help rearranging the mutual positions of semantic structures which are close enough to each other
