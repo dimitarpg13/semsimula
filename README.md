@@ -7,4 +7,6 @@
 There are two mechanisms which will influence the aggregation / dispersal of Semantic Structures :
 
  * association / disassociation links which exert forces on small scales and help to rearange the mutual position of semantic structures which are close to each other
- * 
+ * semantic energy field which is subjected to tiny local alterations based on past inferences produced by semantic structures passing through those semantic locations.
+
+ 
