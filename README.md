@@ -12,8 +12,8 @@ There are two mechanisms which will influence the aggregation / dispersal of Sem
 The goal of the simulation is to prove that the semantic distances between semantic structures do not contradict the prescribed meaning of the latter. Let me expound on the last statement. For this purpose I need to introduce few definitions:
 
 **Definition**: _Semantic context_ \
-The semantic structures in a given region of semantic space. The region does not need to be simply connected. In order a semantic structure $S$ to be **in** region $R$ of semantic space it needs to be enclosed by $R$ in its entirety - that is, there should be no substructure $S_1 \in S$ which is outside of $R$. 
+The semantic structures in a given region of semantic space. The region does not need to be simply connected. In order a semantic structure $S$ to be **in** region $\mathcal{R}$ of semantic space $\mathbb{S}$  it needs to be enclosed by $R$ in its entirety - that is, there should be no substructure $S_1 \in S$ which is outside of $\mathcal{R}$. 
 
-**Definition**: _Prescribed Meaning_ of a set $\mathcal{S}$ of semantic structures \
+**Definition**: _Prescribed Meaning_ of a set $\mathcal{S}$ of semantic structures in a context \
 Let us consider a countable set $\mathcal{S}$ of semantic structures $S_1, S_2, S_3, \dots, S_k, \dots$. Each structure $S_i$ is represented by its semantic signature $ssig\(S_i\) \in \mathbb{N}$. _Prescribed Meaning_ of the set $\mathcal{S}$ is a map $\mathfrak{M}\left(\mathcal{S}\right): \mathcal{S}$
 
