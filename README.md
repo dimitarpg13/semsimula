@@ -14,5 +14,5 @@ The goal of the simulation is to prove that the semantic distances between seman
 **Definition**: _Semantic context_
 The semantic structures in a given region of semantic space. The region does not need to be simply connected. In order a semantic structure $S$ to be **in** region $R$ of semantic space it needs to be enclosed by $R$ in its entirety - that is, there should be no substructure $S_1 \in S$ which is outside of $R$. 
 
-**Definition**: _Prescribed Meaning_ of a set of semantic structures $\mathcal{R}$ in semantic space
+**Definition**: _Prescribed Meaning_ of a set $\mathcal{R}$ of semantic structures in semantic space
 
