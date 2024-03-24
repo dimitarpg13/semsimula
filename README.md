@@ -2,7 +2,7 @@
 
 ## Semantic Simulation
 
-### Modeling evolution and aggergation of Semantic Structures 
+### Modeling dynamic semantic distance via the evolution and aggergation of Semantic Structures 
 
 There are two mechanisms which will influence the aggregation / dispersal of Semantic Structures :
 
