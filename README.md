@@ -9,5 +9,7 @@ There are two mechanisms which will influence the aggregation / dispersal of Sem
  * association / disassociation links which exert forces on small scales and help rearranging the mutual positions of semantic structures which are close enough to each other
  * semantic energy field which is subjected to tiny local alterations based on past inferences produced by semantic structures passing through those semantic locations.
 
-The goal of the simulation is to prove that the semantic distances between semantic structures do not contradict the prescribed meaning of the latter. Let me expound on the last statement.    
+The goal of the simulation is to prove that the semantic distances between semantic structures do not contradict the prescribed meaning of the latter. Let me expound on the last statement. For this purpose I need to introduce few definitions:
+
+**Definition**: _Semantic context_
 
