@@ -19,4 +19,5 @@ The semantic structures enclosed in a given region of semantic space. The region
 **Definition**: _Meaning_ of a set $\mathcal{S}$ of semantic structures in a context $\mathcal{C}$ \
 Let us consider a countable set $\mathcal{S}$ of semantic structures $S_1, S_2, S_3, \dots, S_k, \dots$. Each structure $S_i$ is represented by its semantic signature $ssig\(S_i\) \in \mathbb{N}$. Let $S^{\mathcal{C}}$ denote an arbitrary structure semantic taken from $\mathcal{C}$. _Prescribed Meaning_ of the set $\mathcal{S}$ in the context $\mathcal{C}$ is the total order induced by the numerical comparison opeprator $\leq$ applied to the  semantic distance $sdist\left(S^{\mathcal{C}},\cdot\right)$ on the set  $\mathcal{S} \cup \left(\mathcal{C} \backslash S^{\mathcal{C}} \right)$ for each $S^{\mathcal{C}} \in \mathcal{C}$.
 
-Obviously, two semantic structures $S_1$ and $S_2$ have the same (semantic) meaning in the context $\mathcal{C}$  
+Obviously, two semantic structures $S_1$ and $S_2$ have the same (semantic) meaning in the context $\mathcal{C}$ if each of them induce the same ordered chain with respect to the elements of $\mathcal{C} \backslash S^{\mathcal{C}}$ for each  $S^{\mathcal{C}} \in \mathcal{C}$.
+
