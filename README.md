@@ -13,7 +13,7 @@ There are two mechanisms which will influence the aggregation / dispersal of Sem
 
 The goal of the simulation is to prove that the semantic distances between semantic structures do not contradict the prescribed meaning of the latter. Let me expound on the last statement. For this purpose I need to introduce few definitions:
 
-\documentclass[a4paper,12pt]{article}
+$$\documentclass[a4paper,12pt]{article}
 \usepackage{amsmath,amssymb}
 \begin{document}
 \[
@@ -22,7 +22,7 @@ BP(\mathcal{D}_{i}\mathcal{D}_{j})=\begin{cases}
 0 & \mathcal{C}_{i}\neq \mathcal{C}_{j}
 \end{cases}
 \]
-\end{document}
+\end{document}$$
 
 **Definition**: _Semantic context_ $\mathscr{C}$ \
 The semantic structures enclosed in a given region of semantic space. The region does not need to be simply connected. In order a semantic structure $S$ to be **in** region $\mathcal{C}$ of semantic space $\mathbb{S}$ it needs to be enclosed by $\mathcal{C}$ in its entirety - that is, there should be no substructure $S_1 \in S$ which is outside of $\mathcal{C}$. 
