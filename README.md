@@ -20,7 +20,7 @@ The semantic structures enclosed in a given region of semantic space. The region
 Let us consider a countable set $\mathcal{S}$ of semantic structures $S_1, S_2, S_3, \dots, S_k, \dots$. Each structure $S_i$ is represented by its semantic signature $ssig\(S_i\) \in \mathbb{N}$. Let $S^{\mathcal{C}}$ denote an arbitrary semantic structure taken from $\mathcal{C}$. _Semantic Meaning_ of the set $\mathcal{S}$ in the context $\mathcal{C}$ is an ordered set of chains which is created in the following way: 
 
 Let us denote with $\overset{S^{\mathcal{C}}, \mathcal{C}}{\leq}$ the total order induced by the numerical comparison opeprator $\leq$ applied to the  semantic distance $sdist\left(S^{\mathcal{C}},\cdot\right)$ on the set  $\mathcal{S} \cup \left(\mathcal{C} \backslash S^{\mathcal{C}} \right)$ for a given $S^{\mathcal{C}} \in \mathcal{C}$.
-Then the pair $\langle\ \overset{S^{\mathcal{C}}, \mathcal{C}}{\leq}, \mathcal{S} \cup \left(\mathcal{C} \backslash S^{\mathcal{C}}\right)\ \rangle$ defines a chain 
+Then the pair $\langle\ \overset{S^{\mathcal{C}}, \mathcal{C}}{\leq},\ \mathcal{S} \cup \left(\mathcal{C} \backslash S^{\mathcal{C}}\right)\ \rangle$ defines a chain 
 
 Obviously, two semantic structures $S_1$ and $S_2$ have the same (semantic) meaning in the context $\mathcal{C}$ if each of them induce the same ordered chain with respect to the elements of $\mathcal{C} \backslash S^{\mathcal{C}}$ for each  $S^{\mathcal{C}} \in \mathcal{C}$.
 
