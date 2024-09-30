@@ -14,7 +14,7 @@ There are two mechanisms which will influence the aggregation / dispersal of Sem
 The goal of the simulation is to prove that the semantic distances between semantic structures do not contradict the prescribed meaning of the latter. Let me expound on the last statement. For this purpose I need to introduce few definitions:
 
 **Definition**: _Semantic context_ $\mathcal{C}$ \
-The semantic structures enclosed in a given region of semantic space. The region does not need to be simply connected. In order a semantic structure $S$ to be **in** region $\mathcal{C}$ of semantic space $\mathbb{S}$ it needs to be enclosed by $\mathcal{C}$ in its entirety - that is, there should be no substructure $S_1 \in \bigl\{S\bigr\}$ which is outside of $\mathcal{C}$. 
+The semantic structures enclosed in a given region of semantic space. The region does not need to be simply connected. In order a semantic structure $S$ to be **in** region $\mathcal{C}$ of semantic space $\mathbb{S}$ it needs to be enclosed by $\mathcal{C}$ in its entirety - that is, there should be no substructure $S_1 \in \{S\}$ which is outside of $\mathcal{C}$. 
 
 **Definition**: _Semantic Meaning_ of a set $\mathcal{S}$ of semantic structures in a context $\mathcal{C}$ \
 Let us consider a countable set $\mathcal{S}$ of semantic structures $S_1, S_2, S_3, \dots, S_k, \dots$. Each structure $S_i$ is represented by its semantic signature $ssig\(S_i\) \in \mathbb{N}$. Let $S^{\mathcal{C}}$ denote an arbitrary semantic structure taken from $\mathcal{C}$. _Semantic Meaning_ of the set $\mathcal{S}$ in the context $\mathcal{C}$ is an ordered set of chains which is created in the following way: 
