@@ -2,3 +2,4 @@ articles/Deep_sequence_models_tend_to_memorize_geometrically_it_is_unclear_why_N
 articles/Are_language_models_aware_of_the_road_not_taken_Token-level_uncertainty_and_hidden_state_dynamics_Zur_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Continuous_AutoRegressive_Language_Models_Shao_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Forking_Paths_in_Neural_Text_Generation_Bigelow_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/manifolds/lee_riemman_manifolds.pdf filter=lfs diff=lfs merge=lfs -text
