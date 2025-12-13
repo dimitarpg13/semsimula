@@ -15,3 +15,9 @@
 ## Manifolds, Differential Geometry, Lie Groups
 
 ## Renormaization Group
+
+[Renormalization: Why Bigger is Simpler, Broken Symmetries, 2023 (youtube video)](https://www.youtube.com/watch?v=9vFbyHNz-8g)
+
+[Mini-course. Renormalization Group and Critical Phenomena in Hierarchical Models of Statistical Physics: Part I, Roland Roeder, 2021 (youtube video)](https://www.youtube.com/watch?v=KgnC_Z71_7s)
+
+[Mini-course. Renormalization Group and Critical Phenomena in Hierarchical Models of Statistical Physics: Part II, Roland Roeder, 2021 (youtube video)](https://www.youtube.com/watch?v=iyiVlmbqQXA)
